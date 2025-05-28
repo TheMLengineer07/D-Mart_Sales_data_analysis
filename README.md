@@ -1,4 +1,4 @@
- 📊 D-Mart Sales Analysis | Advanced Excel Dashboard
+# 📊 D-Mart Sales Analysis | Advanced Excel Dashboard
 
 # Project Overview
 
